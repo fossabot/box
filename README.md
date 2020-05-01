@@ -1,4 +1,6 @@
 # Chainlink Truffle Box
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpaulsd2020%2Fbox.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpaulsd2020%2Fbox?ref=badge_shield)
+
 
 Implementation of a [Chainlink requesting contract](https://docs.chain.link/docs/create-a-chainlinked-project).
 
@@ -97,3 +99,7 @@ Using network 'live'.
 Truffle v5.0.25 (core: 5.0.25)
 Node v10.16.3
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpaulsd2020%2Fbox.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpaulsd2020%2Fbox?ref=badge_large)
